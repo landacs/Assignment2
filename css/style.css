@@ -23,8 +23,6 @@ p{
 @media (min-width: 992px) {
 	.col-lg-4{
 		float: left;
-		
-
 	}
 
 	.col-lg-4{
@@ -44,7 +42,7 @@ p{
 		width:100%;
 	}
 
-	}
+}
 
 @media (max-width: 767px) {
 	.col-sm-12{
@@ -98,6 +96,7 @@ p{
 	position: relative;
 	border: 1px solid black;
 }
+
 .bgColor3{
 	background-color:  #ccf2ff; /*blue*/
 	position: relative;
